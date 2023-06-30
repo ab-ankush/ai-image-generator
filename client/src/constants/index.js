@@ -1,4 +1,4 @@
-export const backendUrl = "http://localhost:8080/api/v1";
+export const backendUrl = "https://red-combative-betta.cyclic.app/api/v1";
 
 export const surpriseMePrompts = [
   "an armchair in the shape of an avocado",
